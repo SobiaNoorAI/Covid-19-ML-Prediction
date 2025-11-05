@@ -104,4 +104,4 @@ This project is licensed under the MIT License.
 
 **Sobia Noor**  
 Data Scientist | AI & ML Enthusiast  
-[GitHub](https://github.com/SobiaNoorAI) | [LinkedIn](https://www.linkedin.com/in/sobianoor/)
+[GitHub](https://github.com/SobiaNoorAI) | [LinkedIn](https://www.linkedin.com/in/sobianoorai/)
