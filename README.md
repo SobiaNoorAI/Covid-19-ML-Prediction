@@ -69,12 +69,7 @@ Selected features for training:
 
 ## 📊 Evaluation Metrics
 
-- Accuracy
-- Precision
-- Recall
-- F1 Score
-- Confusion Matrix
-- ROC-AUC Score
+- Accuracy 89%
 
 ---
 
